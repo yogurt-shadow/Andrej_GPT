@@ -1,0 +1,6 @@
+name: cs336
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/wangzh/miniconda3/envs/cs336
